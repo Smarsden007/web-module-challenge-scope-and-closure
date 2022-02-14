@@ -110,7 +110,7 @@ function getInningScore(inningCB, ) {
   }
 }
 
-console.log(getInningScore(inning));
+///console.log(getInningScore(inning));
 
 /* ⚾️⚾️⚾️ Task 5: scoreboard() ⚾️⚾️⚾️
 Use the scoreboard function below to do the following:
